@@ -3,3 +3,12 @@ RSTP: ¿ìËÙÉú³ÉÊ÷Ð­Òé£¨rapid spanning Tree Protocol £©£º802.1wÓÉ802.1d·¢Õ¹¶ø³É£¬Õ
 
 FIB£¨Forward Information dataBase£©
 FIB´Ó¸ÅÄîÉÏ½²ÀàËÆÓÚÂ·ÓÉ±í»òÐÅÏ¢¿â¡£ËüÎ¬»¤×ÅÒ»¸öIPÂ·ÓÉ±íÖÐ°üº¬µÄ×ª·¢ÐÅÏ¢µÄ¾µÏó¡£µ±ÍøÂçÖÐÂ·ÓÉ»òÍØÆÓ½á¹¹·¢ÉúÁË±ä»¯Ê±£¬IPÂ·ÓÉ±í¾Í±»¸üÐÂ£¬¶øÕâÐ©±ä»¯Ò²·´Ó³ÔÚFIBÖÐ¡£FIB»ùÓÚIPÂ·ÓÉ±íÖÐÐÅÏ¢£¬Î¬»¤×ÅÏÂÒ»ÍøÂç¶ÎµÄµØÖ·ÐÅÏ¢¡£
+
+Voip£¨Voice over Internet Protocol£©
+¼ò¶øÑÔÖ®¾ÍÊÇ½«Ä£ÄâÐÅºÅ£¨Voice£©Êý×Ö»¯£¬ÒÔÊý¾Ý·â°ü£¨Data Packet£©µÄÐÎÊ½ÔÚIPÍøÂç(IP Network£©ÉÏ×öÊµÊ±´«µÝ¡£
+
+RADIUS£ºRemote Authentication Dial In User Service
+Ô¶³ÌÓÃ»§²¦ºÅÈÏÖ¤ÏµÍ³ÓÉRFC2865£¬RFC2866¶¨Òå£¬ÊÇÄ¿Ç°Ó¦ÓÃ×î¹ã·ºµÄAAAÐ­Òé¡£AAAÊÇÒ»ÖÖ¹ÜÀí¿ò¼Ü£¬Òò´Ë£¬Ëü¿ÉÒÔÓÃ¶àÖÖÐ­ÒéÀ´ÊµÏÖ¡£ÔÚÊµ¼ùÖÐ£¬ÈËÃÇ×î³£Ê¹ÓÃÔ¶³Ì·ÃÎÊ²¦ºÅÓÃ»§·þÎñ£¨Remote Authentication Dial In User Service£¬RADIUS£©À´ÊµÏÖAAA¡£
+
+QoS£¨Quality of Service£¬·þÎñÖÊÁ¿£©
+Ö¸Ò»¸öÍøÂçÄÜ¹»ÀûÓÃ¸÷ÖÖ»ù´¡¼¼Êõ£¬ÎªÖ¸¶¨µÄÍøÂçÍ¨ÐÅÌá¹©¸üºÃµÄ·þÎñÄÜÁ¦, ÊÇÍøÂçµÄÒ»ÖÖ°²È«»úÖÆ£¬ ÊÇÓÃÀ´½â¾öÍøÂçÑÓ³ÙºÍ×èÈûµÈÎÊÌâµÄÒ»ÖÖ¼¼Êõ¡£ ÔÚÕý³£Çé¿öÏÂ£¬Èç¹ûÍøÂçÖ»ÓÃÓÚÌØ¶¨µÄÎÞÊ±¼äÏÞÖÆµÄÓ¦ÓÃÏµÍ³£¬²¢²»ÐèÒªQoS£¬±ÈÈçWebÓ¦ÓÃ£¬»òE-mailÉèÖÃµÈ¡£µ«ÊÇ¶Ô¹Ø¼üÓ¦ÓÃºÍ¶àÃ½ÌåÓ¦ÓÃ¾ÍÊ®·Ö±ØÒª¡£µ±ÍøÂç¹ýÔØ»òÓµÈûÊ±£¬QoS ÄÜÈ·±£ÖØÒªÒµÎñÁ¿²»ÊÜÑÓ³Ù»ò¶ªÆú£¬Í¬Ê±±£Ö¤ÍøÂçµÄ¸ßÐ§ÔËÐÐ¡£ÔÚRFC 3644ÉÏÓÐ¶ÔQoSµÄËµÃ÷¡£
